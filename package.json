@@ -16,5 +16,8 @@
   "scripts": {
     "build": "bun build src/index.ts --outdir dist --target node",
     "dev": "bun run src/index.ts"
+  },
+  "dependencies": {
+    "sync-request-curl": "^4.0.0"
   }
 }
