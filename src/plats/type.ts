@@ -1,4 +1,5 @@
 export type PlatsName = "Tiktok"|"Youtube"|"Facebook";
+
 export type TrendingTab = "Topics" | "Posts" | "Creators" | "Viral";
 
 export type TopicsData = {};

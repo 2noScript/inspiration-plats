@@ -6,6 +6,7 @@ import type {
   CreatorsData,
   PlatsName,
   searchData,
+  searchParams,
 } from "../type";
 
 export class Tiktok extends PlatBase {
@@ -20,7 +21,7 @@ export class Tiktok extends PlatBase {
   override creators(): Promise<CreatorsData> {
     throw new Error("Method not implemented.");
   }
-  override search(): Promise<searchData> {
+  override search(params: searchParams): Promise<searchData> {
     throw new Error("Method not implemented.");
   }
 }
