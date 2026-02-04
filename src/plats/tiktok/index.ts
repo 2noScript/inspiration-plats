@@ -1,27 +1,30 @@
 import { PlatBase } from "../base";
 import type {
   TrendingTab,
-  TopicsData,
-  PostsData,
-  CreatorsData,
   PlatsName,
-  searchData,
   searchParams,
+  platData,
+  Id,
 } from "../type";
 
 export class Tiktok extends PlatBase {
   name: PlatsName = "Tiktok";
   tabs: TrendingTab[] = ["Topics", "Posts", "Creators"];
-  override topics(): Promise<TopicsData> {
+  
+  private genPostUrl(id:Id):string {
+    return ""
+  }
+
+  override topics(): Promise<platData> {
     throw new Error("Method not implemented.");
   }
-  override posts(): Promise<PostsData> {
+  override posts(): Promise<platData> {
     throw new Error("Method not implemented.");
   }
-  override creators(): Promise<CreatorsData> {
+  override creators(): Promise<platData> {
     throw new Error("Method not implemented.");
   }
-  override search(params: searchParams): Promise<searchData> {
+  override search(params: searchParams): Promise<platData> {
     throw new Error("Method not implemented.");
   }
 }
