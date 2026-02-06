@@ -1,7 +1,7 @@
 
 
 
-export function GenReqParams(reqParams: Record<string, any>) {
+export function genTiktokReqParams(reqParams: Record<string, any>) {
   return {
     locale: "en",
     aid: 1988,
@@ -27,7 +27,7 @@ export function GenReqParams(reqParams: Record<string, any>) {
   };
 }
 
-export function GenReqHeader(reqHeader: Record<string, any>){
+export function genTiktokReqHeader(reqHeader: Record<string, any>){
     return {
         accept:"application/json, text/plain, */*",
         "accept-language":"en-US,en;q=0.9",

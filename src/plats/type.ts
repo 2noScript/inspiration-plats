@@ -31,19 +31,19 @@ export type PostData = {};
 
 export type CreatorData = {};
 
-export type searchData = {};
+export type SearchData = {};
 
 export type TopicReqParams = {};
 
-export type platData = {
+export type PlatData = {
   cursor?: number;
   hasMore: boolean;
   total: number;
-  data: PostData[] | CreatorData[] | searchData[];
+  data: PostData[] | CreatorData[] | SearchData[];
   updateAt?: string | number;
 };
 
-export type searchParams = {
+export type SearchParams = {
   keyword: string;
   count: number;
   [key: string]: any;
