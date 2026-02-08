@@ -6,6 +6,7 @@ import type {
   PlatData,
   Id,
   ChannelAnalyzeParams,
+  PlatsConfig,
 } from "../type";
 
 import type {
@@ -22,9 +23,15 @@ export type YoutubeSearchParams = SearchParams & {
   filter: YoutubeFilterCode;
 };
 
+export type YoutubeConfig = {
+  apiKey: string ;
+  version: string;
+};
+
 export class Youtube extends PlatBase {
   name: PlatsName = "Youtube";
   tabs: TrendingTab[] = [];
+  protected config!: YoutubeConfig;
 
   override topics(): Promise<PlatData> {
     throw new Error("Method not implemented.");
@@ -36,15 +43,13 @@ export class Youtube extends PlatBase {
     throw new Error("Method not implemented.");
   }
 
-
-
   override async search(params: YoutubeSearchParams): Promise<PlatData> {
     const { hl, gl, keyword, filter } = params;
     const payload = {
       context: {
         client: {
           clientName: "WEB",
-          clientVersion: "2.20241217.01.00",
+          clientVersion: this.config.version,
           hl,
           gl,
         },
@@ -52,8 +57,7 @@ export class Youtube extends PlatBase {
       query: keyword,
       params: filter,
     };
-    const req = await client.post(YOUTUBE_SEARCH, payload,{
-    });
+    const req = await client.post(`${YOUTUBE_SEARCH}?key=${this.config.apiKey}`, payload);
     console.log(req?.data!);
 
     // const req

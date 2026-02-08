@@ -8,9 +8,15 @@ import type {
   ChannelAnalyzeParams,
 } from "../type";
 
+
+export type TiktokConfig={
+  cookie:"",
+}
+
 export class Tiktok extends PlatBase {
   name: PlatsName = "Tiktok";
   tabs: TrendingTab[] = ["Topics", "Posts", "Creators"];
+  protected config!: TiktokConfig;
 
   private genPostUrl(id: Id): string {
     return "";

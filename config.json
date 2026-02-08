@@ -1,0 +1,15 @@
+{
+  "tiktok": {
+    "cookie": ""
+  },
+  "facebook": {
+    "apiKey": ""
+  },
+  "youtube": {
+    "apiKey": "",
+    "version": ""
+  },
+  "douyin": {
+    "cookie": ""
+  }
+}

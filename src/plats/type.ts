@@ -3,6 +3,9 @@ export type PlatsName = "Tiktok" | "Youtube" | "Facebook" | "Douyin";
 export type TrendingTab = "Topics" | "Posts" | "Creators" | "Viral";
 export type Id = string | number;
 
+export type PlatsConfig= Record<string,any>
+
+
 // response data
 
 export type ScoreSeries = {
