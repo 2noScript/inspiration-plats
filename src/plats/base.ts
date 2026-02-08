@@ -1,4 +1,5 @@
 import type {
+  ChannelAnalyzeParams,
   PlatData,
   PlatsName,
   SearchParams,
@@ -15,4 +16,5 @@ export abstract class PlatBase {
   abstract posts(): Promise<PlatData>;
   abstract creators(): Promise<PlatData>;
   abstract search(params: SearchParams): Promise<PlatData>;
+  abstract channelAnalyze(params: ChannelAnalyzeParams):Promise<PlatData>
 }

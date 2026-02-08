@@ -1,21 +1,16 @@
-import request, { type HttpVerb, type Options } from "sync-request-curl";
+import { createCuimpHttp } from 'cuimp'
 
-
-
-export function curlJson(method: HttpVerb, endpoint: string, options: Options) {
-  const res = request(method, endpoint, options);
-  try {
-    return {
-      code: res.statusCode,
-      data: JSON.parse(res.body.toString()),
-      status: 0,
-    };
-  } catch (err) {
-    return {
-      code: res.statusCode,
-      data: res.body.toString(),
-      message: err,
-      status: 1,
-    };
-  }
+const silentLogger = {
+  info: (...args: any[]) => console.log('[INFO]', new Date().toISOString(), ...args),
+  warn: (...args:any[]) => console.warn('[WARN]', new Date().toISOString(), ...args),
+  error: (...args:any[]) => console.error('[ERROR]', new Date().toISOString(), ...args),
+  debug: (...args:any[]) => console.debug('[DEBUG]', new Date().toISOString(), ...args),
 }
+
+export const client = createCuimpHttp({
+  descriptor: { browser: 'chrome', version: '123'  },
+  logger: silentLogger,
+  cookieJar: true, 
+})
+
+

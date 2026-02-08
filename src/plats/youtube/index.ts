@@ -5,6 +5,7 @@ import type {
   SearchParams,
   PlatData,
   Id,
+  ChannelAnalyzeParams,
 } from "../type";
 
 import type { YoutubeLanguageCode, YoutubeRegionCode } from "./code";
@@ -42,6 +43,10 @@ export class Youtube extends PlatBase {
       query: keyword,
     };
 
+    throw new Error("Method not implemented.");
+  }
+
+  override channelAnalyze(params: ChannelAnalyzeParams): Promise<PlatData> {
     throw new Error("Method not implemented.");
   }
 }

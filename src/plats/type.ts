@@ -3,6 +3,9 @@ export type PlatsName = "Tiktok" | "Youtube" | "Facebook";
 export type TrendingTab = "Topics" | "Posts" | "Creators" | "Viral";
 export type Id = string | number;
 
+
+// response data 
+
 export type ScoreSeries = {
   timestamp: string;
   value: string;
@@ -33,7 +36,6 @@ export type CreatorData = {};
 
 export type SearchData = {};
 
-export type TopicReqParams = {};
 
 export type PlatData = {
   cursor?: number;
@@ -43,8 +45,16 @@ export type PlatData = {
   updateAt?: string | number;
 };
 
+
+// request prams
+
 export type SearchParams = {
   keyword: string;
   count: number;
   [key: string]: any;
 };
+
+export type ChannelAnalyzeParams={
+  identifier: Id
+}
+export type TopicReqParams = {};
