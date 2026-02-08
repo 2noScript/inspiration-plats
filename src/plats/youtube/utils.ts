@@ -2,7 +2,7 @@ export function genYoutubeReqParams(reqParams: Record<string, any>) {
   return {};
 }
 
-export function genYoutubeHeader(reqHeader: Record<string, any>) {
+export function genYoutubeHeader(reqHeader?: Record<string, any>) {
   return {
     "Content-Type": "application/json",
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",

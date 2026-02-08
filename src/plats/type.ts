@@ -1,10 +1,9 @@
-export type PlatsName = "Tiktok" | "Youtube" | "Facebook";
+export type PlatsName = "Tiktok" | "Youtube" | "Facebook" | "Douyin";
 
 export type TrendingTab = "Topics" | "Posts" | "Creators" | "Viral";
 export type Id = string | number;
 
-
-// response data 
+// response data
 
 export type ScoreSeries = {
   timestamp: string;
@@ -36,7 +35,6 @@ export type CreatorData = {};
 
 export type SearchData = {};
 
-
 export type PlatData = {
   cursor?: number;
   hasMore: boolean;
@@ -45,16 +43,19 @@ export type PlatData = {
   updateAt?: string | number;
 };
 
-
 // request prams
 
-export type SearchParams = {
+export type BaseReqPrams = {
+  proxy?: string;
+};
+
+export type SearchParams = BaseReqPrams & {
   keyword: string;
-  count: number;
+  count?: number;
   [key: string]: any;
 };
 
-export type ChannelAnalyzeParams={
-  identifier: Id
-}
-export type TopicReqParams = {};
+export type ChannelAnalyzeParams = BaseReqPrams &  {
+  identifier: Id;
+};
+export type TopicReqParams = BaseReqPrams & {};

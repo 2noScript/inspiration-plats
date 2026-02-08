@@ -1,0 +1,2134 @@
+{
+  "responseContext": {
+    "visitorData": "CgtsUVV4QUZnbHZwTSjGhfrJBjIKCgJWThIEGgAgTQ%3D%3D",
+    "serviceTrackingParams": [
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "is_alc_surface",
+            "value": "false"
+          },
+          {
+            "key": "is_viewed_live",
+            "value": "False"
+          },
+          {
+            "key": "ipcc",
+            "value": "0"
+          },
+          {
+            "key": "logged_in",
+            "value": "0"
+          },
+          {
+            "key": "visitor_data",
+            "value": "CgtsUVV4QUZnbHZwTSjGhfrJBjIKCgJWThIEGgAgTQ%3D%3D"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "yt_ad",
+            "value": "1"
+          },
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20240101.00.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "0"
+          },
+          {
+            "key": "GetPlayer_rid",
+            "value": "0xb197a72b9d3a1d41"
+          }
+        ]
+      },
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "logged_in",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20250331"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "maxAgeSeconds": 0,
+    "mainAppWebResponseContext": {
+      "loggedOut": true,
+      "trackingParam": "kx_fmPxhoPZRL1FaonCcLlFGAMO7j-uZrQgU0_V43Z4-IazRgkuMsNLBwOcCE59TDtslLKPQ-SS"
+    },
+    "webResponseContextExtensionData": {
+      "webResponseContextPreloadData": {
+        "preloadMessageNames": [
+          "miniplayerRenderer",
+          "adPlacementRenderer",
+          "clientForecastingAdRenderer",
+          "playerAnnotationsExpandedRenderer",
+          "subscribeButtonRenderer",
+          "confirmDialogRenderer",
+          "buttonRenderer",
+          "playerStoryboardSpecRenderer",
+          "playerMicroformatRenderer",
+          "cardCollectionRenderer",
+          "cardRenderer",
+          "simpleCardTeaserRenderer",
+          "infoCardIconRenderer",
+          "mealbarPromoRenderer",
+          "endscreenRenderer",
+          "endscreenElementRenderer",
+          "toggleButtonViewModel",
+          "buttonViewModel"
+        ]
+      },
+      "hasDecorated": true
+    }
+  },
+  "playabilityStatus": {
+    "status": "OK",
+    "playableInEmbed": true,
+    "miniplayer": {
+      "miniplayerRenderer": {
+        "playbackMode": "PLAYBACK_MODE_ALLOW"
+      }
+    },
+    "contextParams": "Q0FFU0FnZ0I="
+  },
+  "streamingData": {
+    "expiresInSeconds": "21540",
+    "formats": [
+      {
+        "itag": 18,
+        "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
+        "bitrate": 156455,
+        "width": 640,
+        "height": 360,
+        "lastModified": "1751121961943055",
+        "quality": "medium",
+        "xtags": "Cg8KB2hlYXVkaW8SBHRydWU",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "259320",
+        "audioSampleRate": "22050",
+        "audioChannels": 2,
+        "signatureCipher": "s=AJfQdSswRQIgOy4k-MKBSeDDNY3g7ovdMZogM1PD28x8%3DdcjoeWaTm4CIQC7zWHPvYekIPLBt1UcZgkWnpGqWaJCy-7aYY-tMUmn_A%3DL&sp=sig&url=https://rr8---sn-42u-i5oll.googlevideo.com/videoplayback%3Fexpire%3D1765725990%26ei%3DxoI-aZSnKcvt2roPpriQuQY%26ip%3D42.115.141.116%26id%3Do-AIjgl2Ahx3_uqyABAHgd5RnIQee9anWyXrPZRTfvSYvC%26itag%3D18%26source%3Dyoutube%26requiressl%3Dyes%26xpc%3DEgVo2aDSNQ%253D%253D%26cps%3D30%26met%3D1765704390%252C%26mh%3DIx%26mm%3D31%252C26%26mn%3Dsn-42u-i5oll%252Csn-oguelnzs%26ms%3Dau%252Conr%26mv%3Dm%26mvi%3D8%26pl%3D24%26rms%3Dau%252Cau%26initcwndbps%3D3130000%26bui%3DAYUSA3D9U5CoPzGcGV_UI16gOSxcdDIUeiRLygIaL0rkhzo6Ic7VgS3hi7McgNKBczS0UxtB-t672KYf%26spc%3DwH4Qq7YSJaBDnXvE-U0eoJBYuvYROooIKZvvJkUTlu6gyd0QXHKzb_azTpTbAK5yRINEUA%26vprv%3D1%26svpuc%3D1%26xtags%3Dheaudio%253Dtrue%26mime%3Dvideo%252Fmp4%26ns%3DNDt-a3CBWZfxsjk9ahb-RGsR%26rqh%3D1%26cnr%3D14%26ratebypass%3Dyes%26dur%3D259.320%26lmt%3D1751121961943055%26mt%3D1765703855%26fvip%3D1%26fexp%3D51355912%252C51552689%252C51565115%252C51565681%252C51580968%26c%3DWEB%26sefc%3D1%26txp%3D4538534%26n%3DyI_sqUtz0IlnctAS8%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cxpc%252Cbui%252Cspc%252Cvprv%252Csvpuc%252Cxtags%252Cmime%252Cns%252Crqh%252Ccnr%252Cratebypass%252Cdur%252Clmt%26lsparams%3Dcps%252Cmet%252Cmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Crms%252Cinitcwndbps%26lsig%3DAPaTxxMwRQIgVe8aQbEw61_duJP0HRtcVFDRQkeX5rpGghQNQfUaBGECIQDsW-M2xfaR8G2dM1ZPeS5dRinimeudcz434F4FV2ab1w%253D%253D",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      }
+    ],
+    "adaptiveFormats": [
+      {
+        "itag": 137,
+        "mimeType": "video/mp4; codecs=\"avc1.640028\"",
+        "bitrate": 3804328,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "740"
+        },
+        "indexRange": {
+          "start": "741",
+          "end": "1348"
+        },
+        "lastModified": "1751122101725098",
+        "contentLength": "33024373",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 1019302,
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 248,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 3235440,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "1052"
+        },
+        "lastModified": "1751122555755371",
+        "contentLength": "30378131",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 937625,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 399,
+        "mimeType": "video/mp4; codecs=\"av01.0.08M.08\"",
+        "bitrate": 2570544,
+        "width": 1920,
+        "height": 1080,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1307"
+        },
+        "lastModified": "1751125280096987",
+        "contentLength": "20612989",
+        "quality": "hd1080",
+        "fps": 30,
+        "qualityLabel": "1080p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 636223,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_1080P"
+      },
+      {
+        "itag": 136,
+        "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+        "bitrate": 2078614,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "1346"
+        },
+        "lastModified": "1751121971172151",
+        "contentLength": "10081813",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 311176,
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 247,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 1924638,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "1028"
+        },
+        "lastModified": "1751122909308141",
+        "contentLength": "16803712",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 518649,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 398,
+        "mimeType": "video/mp4; codecs=\"av01.0.05M.08\"",
+        "bitrate": 1445723,
+        "width": 1280,
+        "height": 720,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1307"
+        },
+        "lastModified": "1751120611612561",
+        "contentLength": "12107404",
+        "quality": "hd720",
+        "fps": 30,
+        "qualityLabel": "720p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 373696,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_720P"
+      },
+      {
+        "itag": 135,
+        "mimeType": "video/mp4; codecs=\"avc1.4d401f\"",
+        "bitrate": 1018548,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "1346"
+        },
+        "lastModified": "1751121969288649",
+        "contentLength": "5465451",
+        "quality": "large",
+        "fps": 30,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 168691,
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_480P"
+      },
+      {
+        "itag": 244,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 946826,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "1028"
+        },
+        "lastModified": "1751122890226521",
+        "contentLength": "9138283",
+        "quality": "large",
+        "fps": 30,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 282054,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_480P"
+      },
+      {
+        "itag": 397,
+        "mimeType": "video/mp4; codecs=\"av01.0.04M.08\"",
+        "bitrate": 724086,
+        "width": 854,
+        "height": 480,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1307"
+        },
+        "lastModified": "1751120926598481",
+        "contentLength": "7161626",
+        "quality": "large",
+        "fps": 30,
+        "qualityLabel": "480p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 221044,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_480P"
+      },
+      {
+        "itag": 134,
+        "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+        "bitrate": 582549,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "1346"
+        },
+        "lastModified": "1751121950240423",
+        "contentLength": "3505624",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 108201,
+        "highReplication": true,
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 243,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 558592,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "219"
+        },
+        "indexRange": {
+          "start": "220",
+          "end": "1028"
+        },
+        "lastModified": "1751122895315079",
+        "contentLength": "5699104",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 175903,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 396,
+        "mimeType": "video/mp4; codecs=\"av01.0.01M.08\"",
+        "bitrate": 384459,
+        "width": 640,
+        "height": 360,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1307"
+        },
+        "lastModified": "1751120567968969",
+        "contentLength": "4147760",
+        "quality": "medium",
+        "fps": 30,
+        "qualityLabel": "360p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 128021,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_360P"
+      },
+      {
+        "itag": 133,
+        "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+        "bitrate": 256761,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "738"
+        },
+        "indexRange": {
+          "start": "739",
+          "end": "1346"
+        },
+        "lastModified": "1751121960098149",
+        "contentLength": "1867851",
+        "quality": "small",
+        "fps": 30,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 57651,
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_240P"
+      },
+      {
+        "itag": 242,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 208578,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "218"
+        },
+        "indexRange": {
+          "start": "219",
+          "end": "1027"
+        },
+        "lastModified": "1751122918768302",
+        "contentLength": "2559189",
+        "quality": "small",
+        "fps": 30,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 78989,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_240P"
+      },
+      {
+        "itag": 395,
+        "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+        "bitrate": 181872,
+        "width": 426,
+        "height": 240,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1307"
+        },
+        "lastModified": "1751120436991872",
+        "contentLength": "2132862",
+        "quality": "small",
+        "fps": 30,
+        "qualityLabel": "240p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 65831,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_240P"
+      },
+      {
+        "itag": 160,
+        "mimeType": "video/mp4; codecs=\"avc1.4d400c\"",
+        "bitrate": 110098,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "737"
+        },
+        "indexRange": {
+          "start": "738",
+          "end": "1345"
+        },
+        "lastModified": "1751121954316264",
+        "contentLength": "1136985",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 35093,
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 278,
+        "mimeType": "video/webm; codecs=\"vp9\"",
+        "bitrate": 81909,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "218"
+        },
+        "indexRange": {
+          "start": "219",
+          "end": "1027"
+        },
+        "lastModified": "1751122894447710",
+        "contentLength": "2143146",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 66148,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 394,
+        "mimeType": "video/mp4; codecs=\"av01.0.00M.08\"",
+        "bitrate": 82396,
+        "width": 256,
+        "height": 144,
+        "initRange": {
+          "start": "0",
+          "end": "699"
+        },
+        "indexRange": {
+          "start": "700",
+          "end": "1307"
+        },
+        "lastModified": "1751120427319515",
+        "contentLength": "1575068",
+        "quality": "tiny",
+        "fps": 30,
+        "qualityLabel": "144p",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 48614,
+        "colorInfo": {
+          "primaries": "COLOR_PRIMARIES_BT709",
+          "transferCharacteristics": "COLOR_TRANSFER_CHARACTERISTICS_BT709",
+          "matrixCoefficients": "COLOR_MATRIX_COEFFICIENTS_BT709"
+        },
+        "approxDurationMs": "259192",
+        "qualityOrdinal": "QUALITY_ORDINAL_144P"
+      },
+      {
+        "itag": 140,
+        "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+        "bitrate": 130767,
+        "initRange": {
+          "start": "0",
+          "end": "722"
+        },
+        "indexRange": {
+          "start": "723",
+          "end": "1066"
+        },
+        "lastModified": "1751119425922723",
+        "contentLength": "4196443",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 129494,
+        "highReplication": true,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "259250",
+        "audioSampleRate": "44100",
+        "audioChannels": 2,
+        "loudnessDb": 2.62,
+        "trackAbsoluteLoudnessLkfs": -11.38,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      },
+      {
+        "itag": 249,
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 56289,
+        "initRange": {
+          "start": "0",
+          "end": "265"
+        },
+        "indexRange": {
+          "start": "266",
+          "end": "704"
+        },
+        "lastModified": "1751119555097652",
+        "contentLength": "1667378",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 51462,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "259201",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": 2.62,
+        "trackAbsoluteLoudnessLkfs": -11.38,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      },
+      {
+        "itag": 250,
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 71734,
+        "initRange": {
+          "start": "0",
+          "end": "265"
+        },
+        "indexRange": {
+          "start": "266",
+          "end": "704"
+        },
+        "lastModified": "1751119495265240",
+        "contentLength": "2191384",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 67635,
+        "audioQuality": "AUDIO_QUALITY_LOW",
+        "approxDurationMs": "259201",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": 2.62,
+        "trackAbsoluteLoudnessLkfs": -11.38,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      },
+      {
+        "itag": 251,
+        "mimeType": "audio/webm; codecs=\"opus\"",
+        "bitrate": 137436,
+        "initRange": {
+          "start": "0",
+          "end": "265"
+        },
+        "indexRange": {
+          "start": "266",
+          "end": "704"
+        },
+        "lastModified": "1751119659578402",
+        "contentLength": "4303407",
+        "quality": "tiny",
+        "projectionType": "RECTANGULAR",
+        "averageBitrate": 132820,
+        "audioQuality": "AUDIO_QUALITY_MEDIUM",
+        "approxDurationMs": "259201",
+        "audioSampleRate": "48000",
+        "audioChannels": 2,
+        "loudnessDb": 2.62,
+        "trackAbsoluteLoudnessLkfs": -11.38,
+        "qualityOrdinal": "QUALITY_ORDINAL_UNKNOWN"
+      }
+    ],
+    "serverAbrStreamingUrl": "https://rr8---sn-42u-i5oll.googlevideo.com/videoplayback?expire=1765725990&ei=xoI-aZSnKcvt2roPpriQuQY&ip=42.115.141.116&id=o-AIjgl2Ahx3_uqyABAHgd5RnIQee9anWyXrPZRTfvSYvC&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=30&met=1765704390%2C&mh=Ix&mm=31%2C26&mn=sn-42u-i5oll%2Csn-oguelnzs&ms=au%2Conr&mv=m&mvi=8&pl=24&rms=au%2Cau&initcwndbps=3130000&spc=wH4Qq7YRJaBDnXvE-U0eoJBYuvYQOooIKZvvJkUTlu6gyd0QXHKzb_azTpTbMKuaRBs&svpuc=1&ns=tvN1i703-gAX3kBiQfRTIcAR&sabr=1&rqh=1&mt=1765703855&fvip=1&keepalive=yes&fexp=51355912%2C51552689%2C51565115%2C51565681%2C51580968&c=WEB&n=5K4doqg-SJLkyc2Tq&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AJfQdSswRQIgZVpXJU4WHSuLvZzMDrho7Sb_3uQvkjLVan0eFhmztmwCIQCwSBvl9-wVCXJYldLUADmkMwMw70VEBswUFV4auG9BBQ%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgVe8aQbEw61_duJP0HRtcVFDRQkeX5rpGghQNQfUaBGECIQDsW-M2xfaR8G2dM1ZPeS5dRinimeudcz434F4FV2ab1w%3D%3D"
+  },
+  "playbackTracking": {
+    "videostatsPlaybackUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/playback?cl=842947648&docid=lyK2NwFUucA&ei=xoI-aZSnKcvt2roPpriQuQY&fexp=&ns=yt&plid=AAZF5hb8Zx25_kyw&el=detailpage&len=260&of=uoYCjwGUWnSVxBZnWzUcTw&vm=CAMQARgBOjJBSHFpSlRKc0RWMmRSSlVtMW9IeGZVNVMtRktXSGl6d3ZJSktxUmREajgtYTV3eDViUWJYQUJFVEpNa0NRTkpiN1JBVXFmdzk4aXNxODRFS3Zudzc4MDNjQ0NQNU9GdUNrU2ZnTjRZZkdWS2ZZVXdRMmNwNUczdWIwZi1XMm4wVnAydmF0eUdteGZaObgBAQ"
+    },
+    "videostatsDelayplayUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/delayplay?cl=842947648&docid=lyK2NwFUucA&ei=xoI-aZSnKcvt2roPpriQuQY&fexp=&ns=yt&plid=AAZF5hb8Zx25_kyw&el=detailpage&len=260&of=uoYCjwGUWnSVxBZnWzUcTw&vm=CAMQARgBOjJBSHFpSlRKc0RWMmRSSlVtMW9IeGZVNVMtRktXSGl6d3ZJSktxUmREajgtYTV3eDViUWJYQUJFVEpNa0NRTkpiN1JBVXFmdzk4aXNxODRFS3Zudzc4MDNjQ0NQNU9GdUNrU2ZnTjRZZkdWS2ZZVXdRMmNwNUczdWIwZi1XMm4wVnAydmF0eUdteGZaObgBAQ"
+    },
+    "videostatsWatchtimeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/watchtime?cl=842947648&docid=lyK2NwFUucA&ei=xoI-aZSnKcvt2roPpriQuQY&fexp=&ns=yt&plid=AAZF5hb8Zx25_kyw&el=detailpage&len=260&of=uoYCjwGUWnSVxBZnWzUcTw&vm=CAMQARgBOjJBSHFpSlRKc0RWMmRSSlVtMW9IeGZVNVMtRktXSGl6d3ZJSktxUmREajgtYTV3eDViUWJYQUJFVEpNa0NRTkpiN1JBVXFmdzk4aXNxODRFS3Zudzc4MDNjQ0NQNU9GdUNrU2ZnTjRZZkdWS2ZZVXdRMmNwNUczdWIwZi1XMm4wVnAydmF0eUdteGZaObgBAQ"
+    },
+    "ptrackingUrl": {
+      "baseUrl": "https://www.youtube.com/ptracking?ei=xoI-aZSnKcvt2roPpriQuQY&oid=Ta2MYghl4Z0lHK1qcf671g.ghgcd_xPPR_URSW5U_cwtQ&plid=AAZF5hb8Zx25_kyw&pltype=contentugc&ptk=youtube_multi&video_id=lyK2NwFUucA"
+    },
+    "qoeUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/qoe?cl=842947648&docid=lyK2NwFUucA&ei=xoI-aZSnKcvt2roPpriQuQY&el=detailpage&event=streamingstats&fexp=&ns=yt&plid=AAZF5hb8Zx25_kyw"
+    },
+    "atrUrl": {
+      "baseUrl": "https://s.youtube.com/api/stats/atr?c=WEB&docid=lyK2NwFUucA&ei=xoI-aZSnKcvt2roPpriQuQY&len=260&ns=yt&plid=AAZF5hb8Zx25_kyw&ver=2&vm=CAMQARgBOjJBSHFpSlRKc0RWMmRSSlVtMW9IeGZVNVMtRktXSGl6d3ZJSktxUmREajgtYTV3eDViUWJYQUJFVEpNa0NRTkpiN1JBVXFmdzk4aXNxODRFS3Zudzc4MDNjQ0NQNU9GdUNrU2ZnTjRZZkdWS2ZZVXdRMmNwNUczdWIwZi1XMm4wVnAydmF0eUdteGZaObgBAQ",
+      "elapsedMediaTimeSeconds": 5
+    },
+    "videostatsScheduledFlushWalltimeSeconds": [
+      10,
+      20,
+      30
+    ],
+    "videostatsDefaultFlushIntervalSeconds": 40,
+    "youtubeRemarketingUrl": {
+      "baseUrl": "https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20250331&foc_id=JzLU9cVzVSkpkATGJu2nOg&label=followon_view&ptype=no_rmkt&random=967998893",
+      "elapsedMediaTimeSeconds": 0
+    }
+  },
+  "videoDetails": {
+    "videoId": "lyK2NwFUucA",
+    "title": "2Pac - Baby Please Don't Cry (M.K.R Remix)",
+    "lengthSeconds": "259",
+    "keywords": [
+      "palmtherapy",
+      "reach",
+      "eargasm",
+      "deep",
+      "house",
+      "chillout",
+      "2pac",
+      "baby please don't cry",
+      "remix"
+    ],
+    "channelId": "UCJzLU9cVzVSkpkATGJu2nOg",
+    "isOwnerViewing": false,
+    "shortDescription": "SUBSCRIBE to PalmTherapy and ACTIVATE the 🔔 to be sure not to miss our latest tracks :\n-http://palmtherapysounds.com/ -https://www.instagram.com/palmtherapysounds/\n-https://www.facebook.com/Palmtherapysounds -https://soundcloud.com/palmtherapysounds\n-https://www.youtube.com/palmtherapysounds -https://twitter.com/PalmTherapy\n-https://www.mixcloud.com/palmtherapysounds/\n\nPALMTHERAPYSOUNDS, THE BRAND : Grab your PalmTShirt, Hoodie :\nhttps://teespring.com/palmtherapysounds\n\nBOOKING DJS for your events / MASTERING of your tracks : \n-https://www.palmtherapysounds.com\n-palmtherapy10@gmail.com\n\nPALMTHERAPYEVENTS :\nhttps://www.facebook.com/pg/Palmtherapysounds/events/\n\nFOLLOW M.K.R :\n-https://soundcloud.com/dado-pravdi\n-https://www.facebook.com/makavelikingrecords/\n-https://www.youtube.com/channel/UC_auEkv3FrAfF7R1Dg3enzA\n\nFOLLOW the beat producer : Fishbeats :\n-https://www.youtube.com/channel/UC6WSgbDt2ICgBXxCfOin5qQ\n\nDONATE to help us continue :\nhttps://www.paypal.me/PalmTherapySounds/100",
+    "isCrawlable": true,
+    "thumbnail": {
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/lyK2NwFUucA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAf6KFxKE_CSiZyfJc5oJ6IPEHNZQ",
+          "width": 168,
+          "height": 94
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lyK2NwFUucA/hqdefault.jpg?sqp=-oaymwE8CMQBEG5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAbPOL9YOAEcmMDUYHw-iW8v53D4Q",
+          "width": 196,
+          "height": 110
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lyK2NwFUucA/hqdefault.jpg?sqp=-oaymwE9CPYBEIoBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAqjn0aJ8ZtEA6GHlaAWQaAmbcZTA",
+          "width": 246,
+          "height": 138
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lyK2NwFUucA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDSVZZ61HRhtKV0h_S2F1rfOtoQzQ",
+          "width": 336,
+          "height": 188
+        },
+        {
+          "url": "https://i.ytimg.com/vi/lyK2NwFUucA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAJOR7i-IP5cgibeK222vT_GWQ_3g",
+          "width": 1920,
+          "height": 1080
+        }
+      ]
+    },
+    "allowRatings": true,
+    "viewCount": "34871340",
+    "author": "palmtherapysounds.com",
+    "isPrivate": false,
+    "isUnpluggedCorpus": false,
+    "isLiveContent": false
+  },
+  "annotations": [
+    {
+      "playerAnnotationsExpandedRenderer": {
+        "featuredChannel": {
+          "startTimeMs": "0",
+          "endTimeMs": "239000",
+          "watermark": {
+            "thumbnails": [
+              {
+                "url": "https://i.ytimg.com/an/JzLU9cVzVSkpkATGJu2nOg/featured_channel.jpg?v=56734d82",
+                "width": 34,
+                "height": 45
+              }
+            ]
+          },
+          "trackingParams": "CBQQ8zciEwiUovC34byRAxXLtlYBHSYcJGc=",
+          "navigationEndpoint": {
+            "clickTrackingParams": "CBQQ8zciEwiUovC34byRAxXLtlYBHSYcJGcyAml2ygEE7JsPFw==",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/channel/UCJzLU9cVzVSkpkATGJu2nOg",
+                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                "rootVe": 3611,
+                "apiUrl": "/youtubei/v1/browse"
+              }
+            },
+            "browseEndpoint": {
+              "browseId": "UCJzLU9cVzVSkpkATGJu2nOg"
+            }
+          },
+          "channelName": "palmtherapysounds.com",
+          "subscribeButton": {
+            "subscribeButtonRenderer": {
+              "buttonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              "subscribed": false,
+              "enabled": true,
+              "type": "FREE",
+              "channelId": "UCJzLU9cVzVSkpkATGJu2nOg",
+              "showPreferences": false,
+              "subscribedButtonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBED"
+                  }
+                ]
+              },
+              "unsubscribedButtonText": {
+                "runs": [
+                  {
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              "trackingParams": "CBUQmysiEwiUovC34byRAxXLtlYBHSYcJGcyAml2",
+              "unsubscribeButtonText": {
+                "runs": [
+                  {
+                    "text": "UNSUBSCRIBE"
+                  }
+                ]
+              },
+              "serviceEndpoints": [
+                {
+                  "clickTrackingParams": "CBUQmysiEwiUovC34byRAxXLtlYBHSYcJGcyAml2ygEE7JsPFw==",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true,
+                      "apiUrl": "/youtubei/v1/subscription/subscribe"
+                    }
+                  },
+                  "subscribeEndpoint": {
+                    "channelIds": [
+                      "UCJzLU9cVzVSkpkATGJu2nOg"
+                    ],
+                    "params": "EgIIBBgA"
+                  }
+                },
+                {
+                  "clickTrackingParams": "CBUQmysiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "sendPost": true
+                    }
+                  },
+                  "signalServiceEndpoint": {
+                    "signal": "CLIENT_SIGNAL",
+                    "actions": [
+                      {
+                        "clickTrackingParams": "CBUQmysiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                        "openPopupAction": {
+                          "popup": {
+                            "confirmDialogRenderer": {
+                              "trackingParams": "CBYQxjgiEwiUovC34byRAxXLtlYBHSYcJGc=",
+                              "dialogMessages": [
+                                {
+                                  "runs": [
+                                    {
+                                      "text": "Unsubscribe from "
+                                    },
+                                    {
+                                      "text": "palmtherapysounds.com"
+                                    },
+                                    {
+                                      "text": "?"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "confirmButton": {
+                                "buttonRenderer": {
+                                  "style": "STYLE_BLUE_TEXT",
+                                  "size": "SIZE_DEFAULT",
+                                  "isDisabled": false,
+                                  "text": {
+                                    "runs": [
+                                      {
+                                        "text": "Unsubscribe"
+                                      }
+                                    ]
+                                  },
+                                  "serviceEndpoint": {
+                                    "clickTrackingParams": "CBgQ8FsiEwiUovC34byRAxXLtlYBHSYcJGcyAml2ygEE7JsPFw==",
+                                    "commandMetadata": {
+                                      "webCommandMetadata": {
+                                        "sendPost": true,
+                                        "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                      }
+                                    },
+                                    "unsubscribeEndpoint": {
+                                      "channelIds": [
+                                        "UCJzLU9cVzVSkpkATGJu2nOg"
+                                      ],
+                                      "params": "CgIIBBgA"
+                                    }
+                                  },
+                                  "accessibility": {
+                                    "label": "Unsubscribe"
+                                  },
+                                  "trackingParams": "CBgQ8FsiEwiUovC34byRAxXLtlYBHSYcJGc="
+                                }
+                              },
+                              "cancelButton": {
+                                "buttonRenderer": {
+                                  "style": "STYLE_TEXT",
+                                  "size": "SIZE_DEFAULT",
+                                  "isDisabled": false,
+                                  "text": {
+                                    "runs": [
+                                      {
+                                        "text": "Cancel"
+                                      }
+                                    ]
+                                  },
+                                  "accessibility": {
+                                    "label": "Cancel"
+                                  },
+                                  "trackingParams": "CBcQ8FsiEwiUovC34byRAxXLtlYBHSYcJGc="
+                                }
+                              },
+                              "primaryIsCancel": false
+                            }
+                          },
+                          "popupType": "DIALOG"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "subscribeAccessibility": {
+                "accessibilityData": {
+                  "label": "Subscribe to palmtherapysounds.com."
+                }
+              },
+              "unsubscribeAccessibility": {
+                "accessibilityData": {
+                  "label": "Unsubscribe from palmtherapysounds.com."
+                }
+              },
+              "signInEndpoint": {
+                "clickTrackingParams": "CBUQmysiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                "commandMetadata": {
+                  "webCommandMetadata": {
+                    "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCJzLU9cVzVSkpkATGJu2nOg%26feature%3Div%26continue_action%3DQUFFLUhqa01uMmRsNzF2RzB6aVJlcmh3MHJmM3p2d3IyZ3xBQ3Jtc0tsTWktQXBOSGJ1TjBUZjRvdXFZb004N0FCMmhSdXhSVG1iMjh2Z0FaSGk5SWp4b05vbFdqMzdCN29ySjVSZkVRWEJvTmlvMnA2M0U1VmpPQlJReDZ4LWF6MGV1VUxLWlJ0ODVlNG1kODdVWjR2Mlc5Q1VrWTJueTZzWjdSMDJXM2xXOXhMemZRUnFWV3Q0VlUxT01wOHU3Yjl5SmlyQzhwN19MaUhianNXX1JqVVp4UHN3T2pFQ29tS1JaV0wyR25CVUdJTUc%253D&hl=en"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "allowSwipeDismiss": true,
+        "annotationId": "5672b696-0000-257b-b742-94eb2c0a856e"
+      }
+    }
+  ],
+  "playerConfig": {
+    "audioConfig": {
+      "loudnessDb": 2.62,
+      "perceptualLoudnessDb": -11.38,
+      "enablePerFormatLoudness": true,
+      "trackAbsoluteLoudnessLkfs": -11.38,
+      "loudnessTargetLkfs": -14
+    },
+    "streamSelectionConfig": {
+      "maxBitrate": "25040000"
+    },
+    "mediaCommonConfig": {
+      "dynamicReadaheadConfig": {
+        "maxReadAheadMediaTimeMs": 120000,
+        "minReadAheadMediaTimeMs": 15000,
+        "readAheadGrowthRateMs": 1000
+      },
+      "mediaUstreamerRequestConfig": {
+        "videoPlaybackUstreamerConfig": "CpgICpkFCAAlAACAPy0zM3M_NT0Klz9YAWgBchoKFm1mczJfY21mc193ZWJfdjNfMl8wMDMYAKABAagBALgCANoChgEQsOoBGIDd2wEgoJwBKKCcATCYdXCIJ4AB9APgAQOYAgzQAgLoAgSAAwKIA4gnqAMDwAMByAMBgAQB0AQB2AQB-AQHgAV9wAUByAUB4AXQD-gFAfgF0A-QBgHQBgHwBgGAB9APwAcBgAgBiAgBnQjNzEw-oAjoB-AIAegI____________AfoClAEtAACgQjUAAKpCZQAAgEBowHCoAdCGA4UCmpkZP40CAACAP5UC-u1rO7UCAACAP8AC3wP9As3MzD2QAwGdAwrXIz2gAwHVAwAAekSYBAHVBAAAIEHoBPAQoAYBtQa9N4Y1vQYzM4NAwAcByAcB5QcAgAlE8AcBgAgBoQgAAAAAAADwv6kIAAAAAAAA8L-wCN8DuAoBqAMBsAMD0AMB2AMBygQcChMIwKkHEJh1GOgHJQAAAAAoADAAEODUAxjQD9IEDwoICLAJELAJIAEgiCcoAdoEDQoGCPAuEPAuIPAuKAHwBQGYBgGoBoCAAtIGFAjoBxBkGg0IiCcVAAAAPx3NzEw_2AYB8AYBuAcBoAgB0ggGCAEQARgBqQkAAAAAAADwv7EJAAAAAAAA8L_QCQHaCSR4cHR6R1lUV2dGYXRudC9NNEFtOWFFdDVvQU40MVU3bGFIaVKYCuzI0hiiCgzsyNIY7cjSGO7I0hjqCwSLBowGgAwBqAyQAeANAcgPAdAPAegQAZARAaARAbIRFENBTVNDeFVPdWJiSkRJWU9nZ0ln0BIB4BIBgBMBsBMBkRQAAAAAAADwv5kUAAAAAAAA8L-wFAHKFADYFACIp6HKCwEyDAiJARCqz9OWrpSOAzIMCPgBEOu2k--vlI4DMgwIjwMQ24WcgrqUjgMyDAiIARC3prPYrZSOAzIMCPcBEO3J3pexlI4DMgwIjgMQka-O0KiUjgMyDAiHARDJq8DXrZSOAzIMCPQBENn20Y6xlI4DMgwIjQMQ0cqn5qmUjgMyDAiGARCn3bXOrZSOAzIMCPMBEIfBiJGxlI4DMgwIjAMQycmmu6iUjgMyDAiFARDlso_TrZSOAzIMCPIBEK79n5yxlI4DMgwIiwMQgK_s_KeUjgMyDAigARDov67QrZSOAzIMCJYCEN7I05CxlI4DMgwIigMQ24Ge-KeUjgMyDAiMARCjzd2apJSOAzIMCPkBELToqdiklI4DMgwI-gEQ2Pflu6SUjgMyDAj7ARCi6JKKpZSOAzoAUioaAmZyKAEyGFVDSnpMVTljVnpWU2twa0FUR0p1Mm5PZzgAQABYAGAAeACgAQGwAQW6AQMEBTHCAQgBAgMEBQgwXtABABJMAPlcTQYwRQIhAKlmXQGYtbZSpA1AfrHeZBWqGatxYmFH9gHASotlx9w9AiBc7af3bjqZBNuux9DdvyushW_aJuoZzTwGNkhFIh_c6BoCZWk="
+      },
+      "useServerDrivenAbr": true,
+      "serverPlaybackStartConfig": {
+        "enable": true,
+        "playbackStartPolicy": {
+          "startMinReadaheadPolicy": [
+            {
+              "minReadaheadMs": 1200
+            }
+          ]
+        }
+      },
+      "platypusUseEnvoyNetFetch": false,
+      "fixLivePlaybackModelDefaultPosition": false
+    },
+    "webPlayerConfig": {
+      "useCobaltTvosDash": true,
+      "webPlayerActionsPorting": {
+        "getSharePanelCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/share/get_web_player_share_panel"
+            }
+          },
+          "webPlayerShareEntityServiceEndpoint": {
+            "serializedShareEntity": "CgtseUsyTndGVXVjQQ%3D%3D"
+          }
+        },
+        "subscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/subscribe"
+            }
+          },
+          "subscribeEndpoint": {
+            "channelIds": [
+              "UCJzLU9cVzVSkpkATGJu2nOg"
+            ],
+            "params": "EgIIBxgA"
+          }
+        },
+        "unsubscribeCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+            }
+          },
+          "unsubscribeEndpoint": {
+            "channelIds": [
+              "UCJzLU9cVzVSkpkATGJu2nOg"
+            ],
+            "params": "CgIIBxgA"
+          }
+        },
+        "addToWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "addedVideoId": "lyK2NwFUucA",
+                "action": "ACTION_ADD_VIDEO"
+              }
+            ]
+          }
+        },
+        "removeFromWatchLaterCommand": {
+          "clickTrackingParams": "CAAQu2kiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+          "commandMetadata": {
+            "webCommandMetadata": {
+              "sendPost": true,
+              "apiUrl": "/youtubei/v1/browse/edit_playlist"
+            }
+          },
+          "playlistEditEndpoint": {
+            "playlistId": "WL",
+            "actions": [
+              {
+                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                "removedVideoId": "lyK2NwFUucA"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "storyboards": {
+    "playerStoryboardSpecRenderer": {
+      "spec": "https://i.ytimg.com/sb/lyK2NwFUucA/storyboard3_L$L/$N.jpg?sqp=-oaymwGhAUg48quKqQOYAYgBAZUBAAAEQpgBMqABPKgBBLIBQBANDBAVHyYtDg4PEhcrLCkPDhAVHyoyKQ8RFBgmPTgtERQeKjFLRzYVHCkuOUdNPyUuNz1HUlFFM0BCQ0xERkO6AUARERUjRENDQxETFi9DQ0NDFRYpQ0NDQ0MjL0NDQ0NDQ0RDQ0NDQ0JCQ0NDQ0NCQkJDQ0NDQkJCQkNDQ0JCQkJCovOX_wMGCK7tmKgG|48#27#100#10#10#0#default#rs$AOn4CLBmOAtAp2DcobXPbuAaCljFOX6RbA|80#45#131#10#10#2000#M$M#rs$AOn4CLBetnS8Fz0qOHoZUFGD8k-ZSX6w0w|160#90#131#5#5#2000#M$M#rs$AOn4CLDq3U_WttWChpj4HDcEsuz_5ccRSA|320#180#131#3#3#2000#M$M#rs$AOn4CLC5paqUGsFzAbn8FG1cgXoYqB54rQ",
+      "recommendedLevel": 3,
+      "fineScrubbingRecommendedLevel": 2,
+      "highResolutionRecommendedLevel": 3
+    }
+  },
+  "microformat": {
+    "playerMicroformatRenderer": {
+      "thumbnail": {
+        "thumbnails": [
+          {
+            "url": "https://i.ytimg.com/vi/lyK2NwFUucA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAJOR7i-IP5cgibeK222vT_GWQ_3g",
+            "width": 1280,
+            "height": 720
+          }
+        ]
+      },
+      "embed": {
+        "iframeUrl": "https://www.youtube.com/embed/lyK2NwFUucA",
+        "width": 1280,
+        "height": 720
+      },
+      "title": {
+        "simpleText": "2Pac - Baby Please Don't Cry (M.K.R Remix)"
+      },
+      "description": {
+        "simpleText": "SUBSCRIBE to PalmTherapy and ACTIVATE the 🔔 to be sure not to miss our latest tracks :\n-http://palmtherapysounds.com/ -https://www.instagram.com/palmtherapysounds/\n-https://www.facebook.com/Palmtherapysounds -https://soundcloud.com/palmtherapysounds\n-https://www.youtube.com/palmtherapysounds -https://twitter.com/PalmTherapy\n-https://www.mixcloud.com/palmtherapysounds/\n\nPALMTHERAPYSOUNDS, THE BRAND : Grab your PalmTShirt, Hoodie :\nhttps://teespring.com/palmtherapysounds\n\nBOOKING DJS for your events / MASTERING of your tracks : \n-https://www.palmtherapysounds.com\n-palmtherapy10@gmail.com\n\nPALMTHERAPYEVENTS :\nhttps://www.facebook.com/pg/Palmtherapysounds/events/\n\nFOLLOW M.K.R :\n-https://soundcloud.com/dado-pravdi\n-https://www.facebook.com/makavelikingrecords/\n-https://www.youtube.com/channel/UC_auEkv3FrAfF7R1Dg3enzA\n\nFOLLOW the beat producer : Fishbeats :\n-https://www.youtube.com/channel/UC6WSgbDt2ICgBXxCfOin5qQ\n\nDONATE to help us continue :\nhttps://www.paypal.me/PalmTherapySounds/100"
+      },
+      "lengthSeconds": "260",
+      "ownerProfileUrl": "http://www.youtube.com/@palmtherapysoundscom",
+      "externalChannelId": "UCJzLU9cVzVSkpkATGJu2nOg",
+      "isFamilySafe": true,
+      "availableCountries": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AI",
+        "AL",
+        "AM",
+        "AO",
+        "AQ",
+        "AR",
+        "AS",
+        "AT",
+        "AU",
+        "AW",
+        "AX",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BL",
+        "BM",
+        "BN",
+        "BO",
+        "BQ",
+        "BR",
+        "BS",
+        "BT",
+        "BV",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CC",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CK",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CW",
+        "CX",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "EH",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FK",
+        "FM",
+        "FO",
+        "FR",
+        "GA",
+        "GB",
+        "GD",
+        "GE",
+        "GF",
+        "GG",
+        "GH",
+        "GI",
+        "GL",
+        "GM",
+        "GN",
+        "GP",
+        "GQ",
+        "GR",
+        "GS",
+        "GT",
+        "GU",
+        "GW",
+        "GY",
+        "HK",
+        "HM",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IM",
+        "IN",
+        "IO",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JE",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KY",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MF",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MP",
+        "MQ",
+        "MR",
+        "MS",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NC",
+        "NE",
+        "NF",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NU",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PF",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PM",
+        "PN",
+        "PR",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RE",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SH",
+        "SI",
+        "SJ",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SX",
+        "SY",
+        "SZ",
+        "TC",
+        "TD",
+        "TF",
+        "TG",
+        "TH",
+        "TJ",
+        "TK",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UM",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VG",
+        "VI",
+        "VN",
+        "VU",
+        "WF",
+        "WS",
+        "YE",
+        "YT",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "isUnlisted": false,
+      "hasYpcMetadata": false,
+      "viewCount": "34871340",
+      "category": "Music",
+      "publishDate": "2017-08-19T08:46:45-07:00",
+      "ownerChannelName": "palmtherapysounds.com",
+      "uploadDate": "2017-08-19T08:46:45-07:00",
+      "isShortsEligible": false,
+      "externalVideoId": "lyK2NwFUucA",
+      "likeCount": "459267",
+      "canonicalUrl": "https://www.youtube.com/watch?v=lyK2NwFUucA"
+    }
+  },
+  "cards": {
+    "cardCollectionRenderer": {
+      "cards": [
+        {
+          "cardRenderer": {
+            "teaser": {
+              "simpleCardTeaserRenderer": {
+                "message": {
+                  "simpleText": "View corrections"
+                },
+                "trackingParams": "CBMQ0DYiEwiUovC34byRAxXLtlYBHSYcJGc=",
+                "prominent": true,
+                "logVisibilityUpdates": true,
+                "onTapCommand": {
+                  "clickTrackingParams": "CBMQ0DYiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                  "changeEngagementPanelVisibilityAction": {
+                    "targetId": "engagement-panel-error-corrections",
+                    "visibility": "ENGAGEMENT_PANEL_VISIBILITY_EXPANDED"
+                  }
+                }
+              }
+            },
+            "cueRanges": [
+              {
+                "startCardActiveMs": "0",
+                "endCardActiveMs": "5000",
+                "teaserDurationMs": "6000",
+                "iconAfterTeaserMs": "5000"
+              }
+            ],
+            "trackingParams": "CBIQtZcBGAAiEwiUovC34byRAxXLtlYBHSYcJGc="
+          }
+        }
+      ],
+      "headerText": {
+        "simpleText": "From palmtherapysounds.com"
+      },
+      "icon": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CBEQsJcBIhMIlKLwt-G8kQMVy7ZWAR0mHCRn"
+        }
+      },
+      "closeButton": {
+        "infoCardIconRenderer": {
+          "trackingParams": "CBAQsZcBIhMIlKLwt-G8kQMVy7ZWAR0mHCRn"
+        }
+      },
+      "trackingParams": "CA8QwjciEwiUovC34byRAxXLtlYBHSYcJGc=",
+      "allowTeaserDismiss": true,
+      "logIconVisibilityUpdates": true
+    }
+  },
+  "trackingParams": "CAAQu2kiEwiUovC34byRAxXLtlYBHSYcJGc=",
+  "messages": [
+    {
+      "mealbarPromoRenderer": {
+        "icon": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/32565a681f5420b051f863e20a723490d94d07306de7b379862f0ec4a0d6676c_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "messageTexts": [
+          {
+            "runs": [
+              {
+                "text": "Our desktop experience was built to be your music destination. Listen to official albums & more."
+              }
+            ]
+          }
+        ],
+        "actionButton": {
+          "buttonRenderer": {
+            "style": "STYLE_MONO_FILLED",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "Check it out"
+                }
+              ]
+            },
+            "trackingParams": "CA4Q7G8iEwiUovC34byRAxXLtlYBHSYcJGc=",
+            "command": {
+              "clickTrackingParams": "CA4Q7G8iEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+              "commandExecutorCommand": {
+                "commands": [
+                  {
+                    "clickTrackingParams": "CA4Q7G8iEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "url": "https://music.youtube.com/",
+                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                        "rootVe": 83769
+                      }
+                    },
+                    "urlEndpoint": {
+                      "url": "https://music.youtube.com",
+                      "target": "TARGET_NEW_WINDOW"
+                    }
+                  },
+                  {
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/feedback"
+                      }
+                    },
+                    "feedbackEndpoint": {
+                      "feedbackToken": "AB9zfpKK5DShqcNO1nRE8VAgrCdvLgCr-zOWrIAt5ph0rmK3ziWyWkq_vFKBHqnYALcud7phPKV5OF_a97-OFX6zd9dAiq87DuF62XZTAL5Iwrii6lvCpXOcPMM7tmLsWr4L7lk0on_D3pH2siomhxXplL34op5MevQh7WozLz4uPSpW2-K3NPc",
+                      "uiActions": {
+                        "hideEnclosingContainer": true
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "dismissButton": {
+          "buttonRenderer": {
+            "style": "STYLE_MONO_TONAL",
+            "size": "SIZE_DEFAULT",
+            "text": {
+              "runs": [
+                {
+                  "text": "No thanks"
+                }
+              ]
+            },
+            "trackingParams": "CA0Q7W8iEwiUovC34byRAxXLtlYBHSYcJGc=",
+            "command": {
+              "clickTrackingParams": "CA0Q7W8iEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+              "commandExecutorCommand": {
+                "commands": [
+                  {
+                    "clickTrackingParams": "CA0Q7W8iEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/feedback"
+                      }
+                    },
+                    "feedbackEndpoint": {
+                      "feedbackToken": "AB9zfpKwqFsWd8eEG0d73o2ltBwnSRkNSDD_KL3v_Ux4o05XbyvC9iAiUGRq4G_iguBzSyq5k26AkdnVAsIy-6of0c3zFaHMUR_y_eZDPZmKY0L8XNCjd-puFBcQi09WmMWyKyym9tES8MobvuUtixWcmFttbnKms91YSzAL4ynTjXRsgwsYUzk",
+                      "uiActions": {
+                        "hideEnclosingContainer": true
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "triggerCondition": "TRIGGER_CONDITION_POST_AD",
+        "style": "STYLE_MODERN",
+        "trackingParams": "CAwQ42kYASITCJSi8LfhvJEDFcu2VgEdJhwkZw==",
+        "impressionEndpoints": [
+          {
+            "clickTrackingParams": "CAwQ42kYASITCJSi8LfhvJEDFcu2VgEdJhwkZ8oBBOybDxc=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "sendPost": true,
+                "apiUrl": "/youtubei/v1/feedback"
+              }
+            },
+            "feedbackEndpoint": {
+              "feedbackToken": "AB9zfpIa0y_gpfshpnbf7VrXhvB9MBgYQ0Zp0zsnd12IRBXvT4LcTz0tUICJ3Gup-x0tKz8qLIl1d6h70B1xJ27Jhnx7shThMxl2q3sIVjP28Q8SNchBrS0MCTVkzyD9Owu-CooY-jSWE9RSHlTdL71AUvhqKZnUoFHtTOITY8K8vfceYqt4pis",
+              "uiActions": {
+                "hideEnclosingContainer": false
+              }
+            }
+          }
+        ],
+        "isVisible": true,
+        "messageTitle": {
+          "runs": [
+            {
+              "text": "Where music meets your desktop"
+            }
+          ]
+        },
+        "iconDark": {
+          "thumbnails": [
+            {
+              "url": "https://www.gstatic.com/youtube/img/promos/growth/32565a681f5420b051f863e20a723490d94d07306de7b379862f0ec4a0d6676c_384x384.png",
+              "width": 384,
+              "height": 384
+            }
+          ]
+        },
+        "supplementalText": {
+          "runs": [
+            {
+              "text": "Terms apply. Cancel anytime"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "endscreen": {
+    "endscreenRenderer": {
+      "elements": [
+        {
+          "endscreenElementRenderer": {
+            "style": "CHANNEL",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_nnuZcM-WKxzaedOuigrpofB1R63slgkBeDC-B2u6t9Ag=s250-c-k-c0x00ffffff-no-rj",
+                  "width": 250,
+                  "height": 250
+                },
+                {
+                  "url": "https://yt3.ggpht.com/ytc/AIdro_nnuZcM-WKxzaedOuigrpofB1R63slgkBeDC-B2u6t9Ag=s400-c-k-c0x00ffffff-no-rj",
+                  "width": 400,
+                  "height": 400
+                }
+              ]
+            },
+            "icon": {
+              "thumbnails": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/annotations/youtube.png"
+                }
+              ]
+            },
+            "left": 0.822807,
+            "width": 0.15438597,
+            "top": 0.13084112,
+            "aspectRatio": 1,
+            "startMs": "239320",
+            "endMs": "259320",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "palmtherapysounds.com, channel"
+                }
+              },
+              "simpleText": "palmtherapysounds.com"
+            },
+            "metadata": {
+              "simpleText": "LABEL SUBMISSIONS : palmtherapy10@gmail.com\n\nBOOKING / MUSIC FOR YOUR VENUE : palmtherapy10@gmail.com\n\n« Juste des amoureux de musique et d’harmonie\nJuste des férus d’histoire et de culture\nJuste des esthètes qui recherchent le ‘Beau’ en toute chose\nQui n’ont qu’une seule ambition : le partage ; le partage d’émotions à travers des ‘PalmTherapy’ ; des ‘PalmTherapy’ qui se veulent éclectiques associant des styles musicaux différents parfois déroutants dans le seul but d’émerveiller, d’émoustiller, d’exalter, d’exciter les six sens de tout un chacun.\"\n\nFOUNDED by Dr. Nawfal Radi in November 2015."
+            },
+            "callToAction": {
+              "simpleText": "VISIT CHANNEL"
+            },
+            "dismiss": {
+              "simpleText": "CANCEL"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAcQ-N4BGAAiEwiUovC34byRAxXLtlYBHSYcJGcyDGl2LWVuZHNjcmVlbkjA89KK8MatkZcBygEE7JsPFw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/channel/UCJzLU9cVzVSkpkATGJu2nOg",
+                  "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                  "rootVe": 3611,
+                  "apiUrl": "/youtubei/v1/browse"
+                }
+              },
+              "browseEndpoint": {
+                "browseId": "UCJzLU9cVzVSkpkATGJu2nOg"
+              }
+            },
+            "hovercardButton": {
+              "subscribeButtonRenderer": {
+                "buttonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBE"
+                    }
+                  ]
+                },
+                "subscribed": false,
+                "enabled": true,
+                "type": "FREE",
+                "channelId": "UCJzLU9cVzVSkpkATGJu2nOg",
+                "showPreferences": false,
+                "subscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBED"
+                    }
+                  ]
+                },
+                "unsubscribedButtonText": {
+                  "runs": [
+                    {
+                      "text": "SUBSCRIBE"
+                    }
+                  ]
+                },
+                "trackingParams": "CAgQmysiEwiUovC34byRAxXLtlYBHSYcJGcyDGl2LWVuZHNjcmVlbg==",
+                "unsubscribeButtonText": {
+                  "runs": [
+                    {
+                      "text": "UNSUBSCRIBE"
+                    }
+                  ]
+                },
+                "serviceEndpoints": [
+                  {
+                    "clickTrackingParams": "CAgQmysiEwiUovC34byRAxXLtlYBHSYcJGcyDGl2LWVuZHNjcmVlbsoBBOybDxc=",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true,
+                        "apiUrl": "/youtubei/v1/subscription/subscribe"
+                      }
+                    },
+                    "subscribeEndpoint": {
+                      "channelIds": [
+                        "UCJzLU9cVzVSkpkATGJu2nOg"
+                      ],
+                      "params": "EgIIBBgA"
+                    }
+                  },
+                  {
+                    "clickTrackingParams": "CAgQmysiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                    "commandMetadata": {
+                      "webCommandMetadata": {
+                        "sendPost": true
+                      }
+                    },
+                    "signalServiceEndpoint": {
+                      "signal": "CLIENT_SIGNAL",
+                      "actions": [
+                        {
+                          "clickTrackingParams": "CAgQmysiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                          "openPopupAction": {
+                            "popup": {
+                              "confirmDialogRenderer": {
+                                "trackingParams": "CAkQxjgiEwiUovC34byRAxXLtlYBHSYcJGc=",
+                                "dialogMessages": [
+                                  {
+                                    "runs": [
+                                      {
+                                        "text": "Unsubscribe from "
+                                      },
+                                      {
+                                        "text": "palmtherapysounds.com"
+                                      },
+                                      {
+                                        "text": "?"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "confirmButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_BLUE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Unsubscribe"
+                                        }
+                                      ]
+                                    },
+                                    "serviceEndpoint": {
+                                      "clickTrackingParams": "CAsQ8FsiEwiUovC34byRAxXLtlYBHSYcJGcyDGl2LWVuZHNjcmVlbsoBBOybDxc=",
+                                      "commandMetadata": {
+                                        "webCommandMetadata": {
+                                          "sendPost": true,
+                                          "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                                        }
+                                      },
+                                      "unsubscribeEndpoint": {
+                                        "channelIds": [
+                                          "UCJzLU9cVzVSkpkATGJu2nOg"
+                                        ],
+                                        "params": "CgIIBBgA"
+                                      }
+                                    },
+                                    "accessibility": {
+                                      "label": "Unsubscribe"
+                                    },
+                                    "trackingParams": "CAsQ8FsiEwiUovC34byRAxXLtlYBHSYcJGc="
+                                  }
+                                },
+                                "cancelButton": {
+                                  "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "isDisabled": false,
+                                    "text": {
+                                      "runs": [
+                                        {
+                                          "text": "Cancel"
+                                        }
+                                      ]
+                                    },
+                                    "accessibility": {
+                                      "label": "Cancel"
+                                    },
+                                    "trackingParams": "CAoQ8FsiEwiUovC34byRAxXLtlYBHSYcJGc="
+                                  }
+                                },
+                                "primaryIsCancel": false
+                              }
+                            },
+                            "popupType": "DIALOG"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "subscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Subscribe to palmtherapysounds.com."
+                  }
+                },
+                "unsubscribeAccessibility": {
+                  "accessibilityData": {
+                    "label": "Unsubscribe from palmtherapysounds.com."
+                  }
+                },
+                "signInEndpoint": {
+                  "clickTrackingParams": "CAgQmysiEwiUovC34byRAxXLtlYBHSYcJGfKAQTsmw8X",
+                  "commandMetadata": {
+                    "webCommandMetadata": {
+                      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCJzLU9cVzVSkpkATGJu2nOg%26feature%3Div-endscreen%26continue_action%3DQUFFLUhqbEt5dU82Nm8zRk1vQTZQQ1p5VEhPY1dGaXV2QXxBQ3Jtc0tsY1M0anV3cHhUU0tObUZqbjkxazV6aDR4cnFOZHBnbms1WWRjNE1DQjJEVEpIT01OaUV5TjV0a1V5U0N0UUNxRDFPVHZieFNYa2pZNmVlYVJtM0Nhd3FwelJZbnpQNmQtb2tGU1MwS1ptdWhpOXlZcUlocTR1S3phS0w2VzFDLXpMbWFiZ0ZiXzFqeVEtRkIxQ3dGcXhDQXVsRVFEd0xBbWFDM05TTjZxV0tQUDA3bW9kdEhoMzBGckdWSlVXMzE2a1VuMVY%253D&hl=en"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAcQ-N4BGAAiEwiUovC34byRAxXLtlYBHSYcJGc=",
+            "isSubscribe": true,
+            "id": "ec02eeb1-3d72-48af-a8d9-37fcc7d5a9b0"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "PLAYLIST",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://i.ytimg.com/vi/RoCKvCL7of8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBE4xpNWyzk4CRIbnxaLbxgJDgv8A",
+                  "width": 168,
+                  "height": 94
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/RoCKvCL7of8/hqdefault.jpg?sqp=-oaymwEiCMQBEG5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1Avymi7jdVVEvE63G6sWdOCCyNw",
+                  "width": 196,
+                  "height": 110
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/RoCKvCL7of8/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDowPCNuWstH1FkKCoLseyVDNh0Lw",
+                  "width": 246,
+                  "height": 138
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/RoCKvCL7of8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB13iwvniwmlRet4Pi3z0itFu0diQ",
+                  "width": 336,
+                  "height": 188
+                },
+                {
+                  "url": "https://i.ytimg.com/vi/RoCKvCL7of8/maxresdefault.jpg",
+                  "width": 1920,
+                  "height": 1080
+                }
+              ]
+            },
+            "playlistLength": {
+              "simpleText": "78 videos"
+            },
+            "left": 0.654386,
+            "width": 0.322807,
+            "top": 0.52492213,
+            "aspectRatio": 1.7777778,
+            "startMs": "239320",
+            "endMs": "259320",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "78 videos, PalmTherapyBlack"
+                }
+              },
+              "simpleText": "PalmTherapyBlack"
+            },
+            "metadata": {
+              "simpleText": "by palmtherapysounds.com"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAYQ894BGAEiEwiUovC34byRAxXLtlYBHSYcJGcyDGl2LWVuZHNjcmVlbkjA89KK8MatkZcBmgEDELtpygEE7JsPFw==",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/watch?v=RoCKvCL7of8&list=PLKbR4opmzvVmfSwtiHGq9Qelwi2B9Is2m",
+                  "webPageType": "WEB_PAGE_TYPE_WATCH",
+                  "rootVe": 3832
+                }
+              },
+              "watchEndpoint": {
+                "videoId": "RoCKvCL7of8",
+                "playlistId": "PLKbR4opmzvVmfSwtiHGq9Qelwi2B9Is2m",
+                "loggingContext": {
+                  "vssLoggingContext": {
+                    "serializedContextData": "GiJQTEtiUjRvcG16dlZtZlN3dGlIR3E5UWVsd2kyQjlJczJt"
+                  }
+                },
+                "watchEndpointSupportedOnesieConfig": {
+                  "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                      "url": "https://rr10---sn-42u-i5olk.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=46808abc22fba1ff&ip=42.115.141.116&initcwndbps=2782500&mt=1765703855&oweuc=&pxtags=Cg4KAnR4Egg1MTY4NDQ2MA&rxtags=Cg4KAnR4Egg1MTY4NDQ2MA%2CCg4KAnR4Egg1MTY4NDQ2MQ%2CCg4KAnR4Egg1MTY4NDQ2Mg"
+                    }
+                  }
+                }
+              }
+            },
+            "trackingParams": "CAYQ894BGAEiEwiUovC34byRAxXLtlYBHSYcJGc=",
+            "id": "0d28b38b-849b-4e2f-8f2e-24bbc845aa8d"
+          }
+        },
+        {
+          "endscreenElementRenderer": {
+            "style": "WEBSITE",
+            "image": {
+              "thumbnails": [
+                {
+                  "url": "https://yt3.ggpht.com/proxy/SUHIC1xYO-fz1klzygjPj8D6DIVUdw1jm5zWbBxrXeCQLb2pVoTBaTMfyVWB0NrEEATBpUpS9rcilfJsUNfIPJr-cu5WmjLdchqrgiuC9_FUTxcyYXoiISjA9dH-kbg2Vg8D3MMEoBls7S0SzQi-KRFb6hRH9Vy8h9NTsGmWoHAXGtz6gIJEuOguSw9WKsaCzItUwXlZF9l_G_VihmaoHHbdBbArGQ=-w250-h250-n-rj-c0xffffffff",
+                  "width": 250,
+                  "height": 250
+                },
+                {
+                  "url": "https://yt3.ggpht.com/proxy/SUHIC1xYO-fz1klzygjPj8D6DIVUdw1jm5zWbBxrXeCQLb2pVoTBaTMfyVWB0NrEEATBpUpS9rcilfJsUNfIPJr-cu5WmjLdchqrgiuC9_FUTxcyYXoiISjA9dH-kbg2Vg8D3MMEoBls7S0SzQi-KRFb6hRH9Vy8h9NTsGmWoHAXGtz6gIJEuOguSw9WKsaCzItUwXlZF9l_G_VihmaoHHbdBbArGQ=-w400-h400-n-rj-c0xffffffff",
+                  "width": 400,
+                  "height": 400
+                }
+              ]
+            },
+            "icon": {
+              "thumbnails": [
+                {
+                  "url": "https://www.gstatic.com/youtube/img/annotations/link.png"
+                }
+              ]
+            },
+            "left": 0.022807017,
+            "width": 0.15438597,
+            "top": 0.57320875,
+            "aspectRatio": 1,
+            "startMs": "239320",
+            "endMs": "259320",
+            "title": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "PalmTherapySounds, the brand, website. Shop. teespring.com"
+                }
+              },
+              "simpleText": "PalmTherapySounds, the brand"
+            },
+            "metadata": {
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "teespring.com"
+                }
+              },
+              "simpleText": "teespring.com"
+            },
+            "callToAction": {
+              "simpleText": "Shop"
+            },
+            "dismiss": {
+              "simpleText": "CANCEL"
+            },
+            "endpoint": {
+              "clickTrackingParams": "CAUQ9t4BGAIiEwiUovC34byRAxXLtlYBHSYcJGcyDGl2LWVuZHNjcmVlbsoBBOybDxc=",
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "https://www.youtube.com/redirect?event=endscreen&redir_token=QUFFLUhqbkZOMlBOa3FWNllqWmFtakltVHN1QmQ2S1hQQXxBQ3Jtc0trZWxSaWdqTGdHU1NPdUI0YjdpYlJISVVHNl9naFhEMnd2dW9Hd2NqVmVYazNNLXgxb2UtdWZHb0JIeWtZelVaOG9VZEYxLUJNU0hZczk2MWtieVdJa0FERkJCdVNWZ3haUzNlblhlX05EVEdET0dfZw&q=https%3A%2F%2Fteespring.com%2Fpalmtherapysounds",
+                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                  "rootVe": 83769
+                }
+              },
+              "urlEndpoint": {
+                "url": "https://www.youtube.com/redirect?event=endscreen&redir_token=QUFFLUhqbkZOMlBOa3FWNllqWmFtakltVHN1QmQ2S1hQQXxBQ3Jtc0trZWxSaWdqTGdHU1NPdUI0YjdpYlJISVVHNl9naFhEMnd2dW9Hd2NqVmVYazNNLXgxb2UtdWZHb0JIeWtZelVaOG9VZEYxLUJNU0hZczk2MWtieVdJa0FERkJCdVNWZ3haUzNlblhlX05EVEdET0dfZw&q=https%3A%2F%2Fteespring.com%2Fpalmtherapysounds",
+                "target": "TARGET_NEW_WINDOW"
+              }
+            },
+            "trackingParams": "CAUQ9t4BGAIiEwiUovC34byRAxXLtlYBHSYcJGc=",
+            "id": "27d7324f-c701-481c-8cce-14bc8d33097f"
+          }
+        }
+      ],
+      "startMs": "239320",
+      "trackingParams": "CAEQ794BIhMIlKLwt-G8kQMVy7ZWAR0mHCRn",
+      "hideButton": {
+        "toggleButtonViewModel": {
+          "defaultButtonViewModel": {
+            "buttonViewModel": {
+              "iconName": "VISIBILITY_OFF",
+              "title": "Hide",
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CAQQ088OIhMIlKLwt-G8kQMVy7ZWAR0mHCRnygEE7JsPFw==",
+                  "changeCreatorEndscreenVisibilityCommand": {
+                    "hide": true
+                  }
+                }
+              },
+              "accessibilityText": "Hide endscreen cards",
+              "style": "BUTTON_VIEW_MODEL_STYLE_OVERLAY",
+              "trackingParams": "CAQQ088OIhMIlKLwt-G8kQMVy7ZWAR0mHCRn",
+              "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+            }
+          },
+          "toggledButtonViewModel": {
+            "buttonViewModel": {
+              "iconName": "VISIBILITY",
+              "title": "Show",
+              "onTap": {
+                "innertubeCommand": {
+                  "clickTrackingParams": "CAMQ1M8OIhMIlKLwt-G8kQMVy7ZWAR0mHCRnygEE7JsPFw==",
+                  "changeCreatorEndscreenVisibilityCommand": {
+                    "hide": false
+                  }
+                }
+              },
+              "accessibilityText": "Show endscreen cards",
+              "style": "BUTTON_VIEW_MODEL_STYLE_OVERLAY",
+              "trackingParams": "CAMQ1M8OIhMIlKLwt-G8kQMVy7ZWAR0mHCRn",
+              "type": "BUTTON_VIEW_MODEL_TYPE_FILLED",
+              "buttonSize": "BUTTON_VIEW_MODEL_SIZE_XSMALL"
+            }
+          },
+          "rendererContext": {
+            "loggingContext": {
+              "loggingDirectives": {
+                "trackingParams": "CAIQ_O4OIhMIlKLwt-G8kQMVy7ZWAR0mHCRn",
+                "visibility": {
+                  "types": "12"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "adPlacements": [
+    {
+      "adPlacementRenderer": {
+        "config": {
+          "adPlacementConfig": {
+            "kind": "AD_PLACEMENT_KIND_START",
+            "adTimeOffset": {
+              "offsetStartMilliseconds": "0",
+              "offsetEndMilliseconds": "-1"
+            },
+            "hideCueRangeMarker": true
+          }
+        },
+        "renderer": {
+          "clientForecastingAdRenderer": {}
+        },
+        "adSlotLoggingData": {
+          "serializedSlotAdServingDataEntry": "ChMIsLXxt-G8kQMVwc1MAh3qthhYGhJiEGlqZzFReGpxNXpJWFlTdnY="
+        }
+      }
+    }
+  ],
+  "adBreakHeartbeatParams": "Q0FBJTNE",
+  "frameworkUpdates": {
+    "entityBatchUpdate": {
+      "mutations": [
+        {
+          "entityKey": "Eg0KC2x5SzJOd0ZVdWNBIPYBKAE%3D",
+          "type": "ENTITY_MUTATION_TYPE_REPLACE",
+          "payload": {
+            "offlineabilityEntity": {
+              "key": "Eg0KC2x5SzJOd0ZVdWNBIPYBKAE%3D",
+              "addToOfflineButtonState": "ADD_TO_OFFLINE_BUTTON_STATE_UNKNOWN"
+            }
+          }
+        }
+      ],
+      "timestamp": {
+        "seconds": "1765704390",
+        "nanos": 728495420
+      }
+    }
+  }
+}

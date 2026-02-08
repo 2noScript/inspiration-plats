@@ -8,11 +8,18 @@ import type {
   ChannelAnalyzeParams,
 } from "../type";
 
-import type { YoutubeLanguageCode, YoutubeRegionCode } from "./code";
+import type {
+  YoutubeFilterCode,
+  YoutubeLanguageCode,
+  YoutubeRegionCode,
+} from "./code";
+import { client } from "../../helpers/request";
+import { YOUTUBE_SEARCH } from "./endpoints";
 
 export type YoutubeSearchParams = SearchParams & {
   hl: YoutubeLanguageCode;
   gl: YoutubeRegionCode;
+  filter: YoutubeFilterCode;
 };
 
 export class Youtube extends PlatBase {
@@ -29,8 +36,10 @@ export class Youtube extends PlatBase {
     throw new Error("Method not implemented.");
   }
 
-  override search(params: YoutubeSearchParams): Promise<PlatData> {
-    const { hl, gl, keyword } = params;
+
+
+  override async search(params: YoutubeSearchParams): Promise<PlatData> {
+    const { hl, gl, keyword, filter } = params;
     const payload = {
       context: {
         client: {
@@ -41,9 +50,19 @@ export class Youtube extends PlatBase {
         },
       },
       query: keyword,
+      params: filter,
     };
+    const req = await client.post(YOUTUBE_SEARCH, payload,{
+    });
+    console.log(req?.data!);
 
-    throw new Error("Method not implemented.");
+    // const req
+    return {
+      cursor: 1,
+      hasMore: true,
+      total: 1,
+      data: [],
+    };
   }
 
   override channelAnalyze(params: ChannelAnalyzeParams): Promise<PlatData> {
